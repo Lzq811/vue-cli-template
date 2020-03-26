@@ -2,7 +2,7 @@
   "name": "new-cli",
   "version": "1.0.0",
   "description": "最新脚手架搭建",
-  "author": "袁泽林 <yuan.zelin@aquilaflycloud.com>",
+  "author": "York Lau <Liuzq811@163.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
